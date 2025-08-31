@@ -31,6 +31,7 @@ Requires expert skills
 
 ### If all fails
 
+
 Look for any vendor-specific battery saver on your device and ideally uninstall if possible, disable if possible.
 
 
